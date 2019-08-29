@@ -1,0 +1,36 @@
+---
+title: "bandarmology dan mikrostruktur pasar"
+author: "M Taufik Ridho"
+date: "29/8/2019"
+output:
+  ioslides_presentation: default
+  beamer_presentation:
+    colortheme: dolphin
+    fonttheme: structurebold
+    theme: AnnArbor
+---
+
+# Siapa saja yang menjadi pelaku di bursa efek ?
+
+## Jenis-jenis pelaku di bursa efek
+
+- Fundamental traders:  yakni orang yang bergerak berdasarkan fundamental ekonomi di luar bursa
+
+- Informed traders:  trader yang mendapatkan untung dari informasi yang belum dicerminkan oleh harga saham, termasuk mengantisipasi sebelum harga naik/turun
+
+- Market makers:  trader profesional yang mendapatkan profit dari perubahan harga dan memanfaatkan skillnya untuk melakukan eksekusi jual/beli saham
+
+# Jenis-jenis broker
+
+## Broker asing
+
+- Broker asing ritel
+
+- Broker asing non ritel
+
+## Broker Lokal
+
+- Broker lokal ritel
+
+- Broker lokal non ritel
+
