@@ -34,3 +34,45 @@ output:
 
 - Broker lokal non ritel
 
+# Membaca mikrostruktur pasar
+
+## Stock price
+
+- Buy order
+
+- Sell order
+
+## Akumulasi
+
+- Akumulasi asing : Dapat dilihat dari net buy/sell
+
+- akumulasi broker : dapat dilihat siapa top sell dan top buy
+
+# Strategi 
+
+## Amati pergerakan
+
+- Pergerakan akumulasi
+
+- Pergerakan distribusi
+
+## Amati market maker
+
+- broker mana yang menjadi market maker di suatu saham
+
+- Berapa broker yang terlibat
+
+- 
+
+## persiapkan trading plan
+
+- entry buy
+
+- exit
+
+- target profit
+
+- jangka waktu transaksi
+
+# praktik
+
